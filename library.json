@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-pcf8591",
+  "title": "pcf8591",
+  "keywords": "pcf8591, esp32, esp8266, arduino",
+  "description": "Plugin pcf8591 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pcf8591/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pcf8591/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
